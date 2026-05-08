@@ -1,6 +1,6 @@
 [CleanSlides_SKILL.md](https://github.com/user-attachments/files/27374537/CleanSlides_SKILL.md)
 ---
-name: Clean Slides — Consulting-Style PowerPoint Generator
+name: Clean Slides — Consulting-Style PowerPoint Generator-Abdelhamid
 description: Inspect, edit, and generate clean consulting-style PowerPoint slides from YAML. Minimal information-dense tables with no graphics or effects — the way McKinsey slides are actually written. Use when asked to create structured argument slides, comparison tables, RAG status slides, or any text-heavy consulting deck. Built by an ex-McKinsey consultant.
 author: Abdelhamid Fahim
 version: 1.0.0
