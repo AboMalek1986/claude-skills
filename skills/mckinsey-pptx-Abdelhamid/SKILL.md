@@ -1,5 +1,5 @@
 ---
-name: McKinsey-Style PPTX Generator
+name: McKinsey-Style PPTX Generator-Abdelhamid
 description: Generates professional consulting-grade .pptx files in McKinsey style using Python. Picks from 40 slide templates (charts, matrices, timelines, KPI dashboards, exec summaries) based on the user's brief. Use when asked to create a pitch deck, strategy presentation, business review, or any consulting-style PowerPoint.
 author: Abdelhamid Fahim
 version: 1.0.0
