@@ -1,5 +1,5 @@
 ---
-name: feynman
+name: feynman-Abdelhamid
 version: 1.0.0
 description: |
   AI research agent for deep investigations, literature reviews, paper audits,
